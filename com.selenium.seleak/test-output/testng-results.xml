@@ -1,61 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="47" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+  <suite name="Suite" duration-ms="119" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="47" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+    <test name="FirstTest" duration-ms="42" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
       <class name="com.selenium.seleak.mvnclass">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="beforeSuite" is-config="true" duration-ms="13" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="beforeTest" is-config="true" duration-ms="1" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="beforeTest" is-config="true" duration-ms="2" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="testCase1" duration-ms="7" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="testCase1" duration-ms="6" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase1 -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testCase2()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="testCase2" duration-ms="3" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="testCase2" duration-ms="2" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase2 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="afterSuite" is-config="true" duration-ms="1" started-at="2018-09-06T09:08:01Z" finished-at="2018-09-06T09:08:01Z">
+      </class> <!-- com.selenium.seleak.mvnclass -->
+    </test> <!-- FirstTest -->
+    <test name="SecondTest" duration-ms="5" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
+      <class name="com.selenium.seleak.mvnclass">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="beforeSuite" is-config="true" duration-ms="13" started-at="2018-09-11T10:13:01Z" finished-at="2018-09-11T10:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.selenium.seleak.mvnclass@28d25987]" name="afterSuite" is-config="true" duration-ms="0" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
       </class> <!-- com.selenium.seleak.mvnclass -->
-    </test> <!-- Test -->
+      <class name="com.selenium.seleak.First">
+        <test-method status="PASS" signature="ak()[pri:0, instance:com.selenium.seleak.First@548e7350]" name="ak" duration-ms="2" started-at="2018-09-11T10:13:02Z" finished-at="2018-09-11T10:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ak -->
+      </class> <!-- com.selenium.seleak.First -->
+    </test> <!-- SecondTest -->
   </suite> <!-- Suite -->
 </testng-results>
