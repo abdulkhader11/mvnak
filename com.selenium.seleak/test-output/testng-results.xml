@@ -2,24 +2,22 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="18631" started-at="2018-09-11T10:48:50Z" finished-at="2018-09-11T10:49:09Z">
+  <suite name="Suite" duration-ms="22373" started-at="2018-09-12T08:00:28Z" finished-at="2018-09-12T08:00:50Z">
     <groups>
     </groups>
-    <test name="FirstTest" duration-ms="8783" started-at="2018-09-11T10:48:50Z" finished-at="2018-09-11T10:48:59Z">
+    <test name="FirstTest" duration-ms="22373" started-at="2018-09-12T08:00:28Z" finished-at="2018-09-12T08:00:50Z">
       <class name="com.selenium.seleak.Second">
-        <test-method status="PASS" signature="testCase2()[pri:0, instance:com.selenium.seleak.Second@4b9e13df]" name="testCase2" duration-ms="8747" started-at="2018-09-11T10:48:50Z" finished-at="2018-09-11T10:48:59Z">
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:com.selenium.seleak.Second@475530b9]" name="testCase2" duration-ms="6732" started-at="2018-09-12T08:00:44Z" finished-at="2018-09-12T08:00:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase2 -->
       </class> <!-- com.selenium.seleak.Second -->
-    </test> <!-- FirstTest -->
-    <test name="SecondTest" duration-ms="9810" started-at="2018-09-11T10:48:59Z" finished-at="2018-09-11T10:49:09Z">
       <class name="com.selenium.seleak.First">
-        <test-method status="PASS" signature="ak()[pri:0, instance:com.selenium.seleak.First@4883b407]" name="ak" duration-ms="9806" started-at="2018-09-11T10:48:59Z" finished-at="2018-09-11T10:49:09Z">
+        <test-method status="PASS" signature="ak()[pri:0, instance:com.selenium.seleak.First@2b98378d]" name="ak" duration-ms="15604" started-at="2018-09-12T08:00:28Z" finished-at="2018-09-12T08:00:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ak -->
       </class> <!-- com.selenium.seleak.First -->
-    </test> <!-- SecondTest -->
+    </test> <!-- FirstTest -->
   </suite> <!-- Suite -->
 </testng-results>
